@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.qtmtapi</namespace>
+    <virtualFolder>qtmtapi</virtualFolder>
+    <customFilter name="MT4 API for Qt 1.6.0">
+        <filterAttribute>MT4 API for Qt</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>MT4 API for Qt</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="MT4 API for Qt Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="MT4" id="CIOS::MT4" ref="en/index.html"/>
+            <keyword name="MT4(正體中文)" id="CIOS::MT4TW" ref="tw/index.html"/>
+            <keyword name="MT4(简体中文)" id="CIOS::MT4CN" ref="cn/index.html"/>
+            <keyword name="QtMtAPI" id="CIOS::QtMtAPI" ref="en/QtMtAPI.html"/>
+            <keyword name="QtMtAPI(正體中文)" id="CIOS::QtMtAPITW" ref="tw/QtMtAPI.html"/>
+            <keyword name="QtMtAPI(简体中文)" id="CIOS::QtMtAPICN" ref="cn/QtMtAPI.html"/>
+            <keyword name="MT4 Manager API" id="CIOS::MT4ManagerAPI" ref="en/mt4manapi.html"/>
+            <keyword name="MT4 Manager API(正體中文)" id="CIOS::MT4ManagerAPITW" ref="tw/mt4manapi.html"/>
+            <keyword name="MT4 Manager API(简体中文)" id="CIOS::MT4ManagerAPICN" ref="cn/mt4manapi.html"/>
+            <keyword name="CManagerInterface" id="CIOS::CManagerInterface" ref="en/mt4manapi.html#CManagerInterface"/>
+            <keyword name="CManagerInterface(正體中文)" id="CIOS::CManagerInterfaceTW" ref="tw/mt4manapi.html#CManagerInterface"/>
+            <keyword name="CManagerInterface(简体中文)" id="CIOS::CManagerInterfaceCN" ref="cn/mt4manapi.html#CManagerInterface"/>
+            <keyword name="MT4 Server API" id="CIOS::MT4ServerAPI" ref="en/mt4serverapi.html"/>
+            <keyword name="MT4 Server API(正體中文)" id="CIOS::MT4ServerAPITW" ref="tw/mt4serverapi.html"/>
+            <keyword name="MT4 Server API(简体中文)" id="CIOS::MT4ServerAPICN" ref="cn/mt4serverapi.html"/>
+            <keyword name="PluginInfo(MT4 Server API/正體中文)" id="CIOS::PluginInfoTW" ref="tw/mt4serverapi.html#PluginInfo"/>
+            <keyword name="PluginCfg(MT4 Server API/正體中文)" id="CIOS::PluginCfgTW" ref="tw/mt4serverapi.html#PluginCfg"/>
+            <keyword name="ConAccess(MT4 Server API/正體中文)" id="CIOS::ConAccessTW" ref="tw/mt4serverapi.html#ConAccess"/>
+            <keyword name="ConCommon(MT4 Server API/正體中文)" id="CIOS::ConCommonTW" ref="tw/mt4serverapi.html#ConCommon"/>
+            <keyword name="ConTime(MT4 Server API/正體中文)" id="CIOS::ConTimeTW" ref="tw/mt4serverapi.html#ConTime"/>
+            <keyword name="ConBackup(MT4 Server API/正體中文)" id="CIOS::ConBackupTW" ref="tw/mt4serverapi.html#ConBackup"/>
+            <keyword name="ConFeeder(MT4 Server API/正體中文)" id="CIOS::ConFeederTW" ref="tw/mt4serverapi.html#ConFeeder"/>
+            <keyword name="ConGroupSec(MT4 Server API/正體中文)" id="CIOS::ConGroupSecTW" ref="tw/mt4serverapi.html#ConGroupSec"/>
+            <keyword name="ConGroupMargin(MT4 Server API/正體中文)" id="CIOS::ConGroupMarginTW" ref="tw/mt4serverapi.html#ConGroupMargin"/>
+            <keyword name="ConGroup(MT4 Server API/正體中文)" id="CIOS::ConGroupTW" ref="tw/mt4serverapi.html#ConGroup"/>
+            <keyword name="ConHoliday(MT4 Server API/正體中文)" id="CIOS::ConHolidayTW" ref="tw/mt4serverapi.html#ConHoliday"/>
+            <keyword name="LiveInfoFile(MT4 Server API/正體中文)" id="CIOS::LiveInfoFileTW" ref="tw/mt4serverapi.html#LiveInfoFile"/>
+            <keyword name="ConLiveUpdate(MT4 Server API/正體中文)" id="CIOS::ConLiveUpdateTW" ref="tw/mt4serverapi.html#ConLiveUpdate"/>
+            <keyword name="ConManagerSec(MT4 Server API/正體中文)" id="CIOS::ConManagerSecTW" ref="tw/mt4serverapi.html#ConManagerSec"/>
+            <keyword name="ConManager(MT4 Server API/正體中文)" id="CIOS::ConManagerTW" ref="tw/mt4serverapi.html#ConManager"/>
+            <keyword name="ConSession(MT4 Server API/正體中文)" id="CIOS::ConSessionTW" ref="tw/mt4serverapi.html#ConSession"/>
+            <keyword name="ConSessions(MT4 Server API/正體中文)" id="CIOS::ConSessionsTW" ref="tw/mt4serverapi.html#ConSessions"/>
+            <keyword name="ConSymbol(MT4 Server API/正體中文)" id="CIOS::ConSymbolTW" ref="tw/mt4serverapi.html#ConSymbol"/>
+            <keyword name="ConSymbolGroup(MT4 Server API/正體中文)" id="CIOS::ConSymbolGroupTW" ref="tw/mt4serverapi.html#ConSymbolGroup"/>
+            <keyword name="ConGatewayAccount(MT4 Server API/正體中文)" id="CIOS::ConGatewayAccountTW" ref="tw/mt4serverapi.html#ConGatewayAccount"/>
+            <keyword name="ConGatewayMarkup(MT4 Server API/正體中文)" id="CIOS::ConGatewayMarkupTW" ref="tw/mt4serverapi.html#ConGatewayMarkup"/>
+            <keyword name="ConGatewayRule(MT4 Server API/正體中文)" id="CIOS::ConGatewayRuleTW" ref="tw/mt4serverapi.html#ConGatewayRule"/>
+            <keyword name="FeedTick(MT4 Server API/正體中文)" id="CIOS::FeedTickTW" ref="tw/mt4serverapi.html#FeedTick"/>
+            <keyword name="FeedData(MT4 Server API/正體中文)" id="CIOS::FeedDataTW" ref="tw/mt4serverapi.html#FeedData"/>
+            <keyword name="FeedNews(MT4 Server API/正體中文)" id="CIOS::FeedNewsTW" ref="tw/mt4serverapi.html#FeedNews"/>
+            <keyword name="LogInfo(MT4 Server API/正體中文)" id="CIOS::LogInfoTW" ref="tw/mt4serverapi.html#LogInfo"/>
+            <keyword name="LogRequest(MT4 Server API/正體中文)" id="CIOS::LogRequestTW" ref="tw/mt4serverapi.html#LogRequest"/>
+            <keyword name="PerformanceInfo(MT4 Server API/正體中文)" id="CIOS::PerformanceInfoTW" ref="tw/mt4serverapi.html#PerformanceInfo"/>
+            <keyword name="UserRecord(MT4 Server API/正體中文)" id="CIOS::UserRecordTW" ref="tw/mt4serverapi.html#UserRecord"/>
+            <keyword name="UserInfo(MT4 Server API/正體中文)" id="CIOS::UserInfoTW" ref="tw/mt4serverapi.html#UserInfo"/>
+            <keyword name="RateInfo(MT4 Server API/正體中文)" id="CIOS::RateInfoTW" ref="tw/mt4serverapi.html#RateInfo"/>
+            <keyword name="TickAPI(MT4 Server API/正體中文)" id="CIOS::TickAPITW" ref="tw/mt4serverapi.html#TickAPI"/>
+            <keyword name="MailBoxHeader(MT4 Server API/正體中文)" id="CIOS::MailBoxHeaderTW" ref="tw/mt4serverapi.html#MailBoxHeader"/>
+            <keyword name="TradeTransInfo(MT4 Server API/正體中文)" id="CIOS::TradeTransInfoTW" ref="tw/mt4serverapi.html#TradeTransInfo"/>
+            <keyword name="RequestInfo(MT4 Server API/正體中文)" id="CIOS::RequestInfoTW" ref="tw/mt4serverapi.html#RequestInfo"/>
+            <keyword name="TradeRecord(MT4 Server API/正體中文)" id="CIOS::TradeRecordTW" ref="tw/mt4serverapi.html#TradeRecord"/>
+            <keyword name="MarginLevel(MT4 Server API/正體中文)" id="CIOS::MarginLevelTW" ref="tw/mt4serverapi.html#MarginLevel"/>
+            <keyword name="OverNightData(MT4 Server API/正體中文)" id="CIOS::OverNightDataTW" ref="tw/mt4serverapi.html#OverNightData"/>
+            <keyword name="DailyReport(MT4 Server API/正體中文)" id="CIOS::DailyReportTW" ref="tw/mt4serverapi.html#DailyReport"/>
+            <keyword name="StateReport(MT4 Server API/正體中文)" id="CIOS::StateReportTW" ref="tw/mt4serverapi.html#StateReport"/>
+            <keyword name="GroupState(MT4 Server API/正體中文)" id="CIOS::GroupStateTW" ref="tw/mt4serverapi.html#GroupState"/>
+        </keywords>
+        <files>
+            <file>*.css</file>
+            <file>*.html</file>
+            <file>images/*</file>
+            <file>tw/*</file>
+            <file>en/*</file>
+            <file>cn/*</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
